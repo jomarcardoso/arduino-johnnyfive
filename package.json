@@ -1,0 +1,14 @@
+{
+  "name": "arduino-johnnyfive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node strobe.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.1.0"
+  }
+}
